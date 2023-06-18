@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 # Maaz Hussaini :technologist:
 
-Passionate Java Developer | Problem Solver | Lifelong Learner
+Passionate Engineer | Problem Solver | Lifelong Learner
 Find my portfolio [here](https://maazhussaini.com).
 Hello there! 👋 I'm Maaz, a dedicated Java developer with a strong passion for solving complex problems through clean and efficient code. With a background in Civil Engineering and a **B.S. in Computer Science**, I bring a unique blend of analytical thinking and technical expertise to the world of software development.
 
 ## Skills
 
-- Java programming
+- Java programming :coffee:
 - C, C++, Python
 - Web dev (JavaScript, React, FastAPI)
 - Algorithms and data structures
