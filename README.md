@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Maaz Hussaini
+# Maaz Hussaini :technologist:
 
 Passionate Java Developer | Problem Solver | Lifelong Learner
 Find my portfolio [here](https://maazhussaini.com).
@@ -39,7 +39,7 @@ I have successfully completed various projects, demonstrating my ability to tack
 
 ## Interests
 
-When I'm not coding, I love exploring the great outdoors, enjoying cricket or reading about new tech.
+When I'm not coding, I love exploring the great outdoors, :runner: enjoy cricket or reading about new tech.
 
 ## Contact
 
