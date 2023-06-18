@@ -34,12 +34,12 @@ I have successfully completed various projects, demonstrating my ability to tack
 
 ## Education
 
-- Diploma in Civil Engineering
+- Diploma in Civil Engineering :construction_worker:
 - B.S. in Computer Science
 
 ## Interests
 
-When I'm not coding, I love exploring the great outdoors, :runner: enjoy cricket or reading about new tech.
+When I'm not coding, I love exploring the :earth_americas: great outdoors, :runner: enjoy cricket or reading about new tech.
 
 ## Contact
 
