@@ -34,6 +34,15 @@ Hello there! 👋 I'm Maaz, a dedicated Software Engineer with a strong passion 
 
 I have successfully completed various projects, demonstrating my ability to tackle challenges and deliver high-quality solutions. With a focus on building robust applications and creating seamless user experiences, I am committed to delivering impactful software solutions that drive efficiency and exceed expectations.
 
+## NPM Packages 📦
+
+Here are some npm packages I've contributed to or published publicly:
+
+- [**@nys-cui/cui-field**](https://www.npmjs.com/package/@nys-cui/cui-field)
+
+_Visit my [npm profile](https://www.npmjs.com/~maazhussaini) for more details._
+
+
 ## Education
 
 - Diploma in Civil Engineering :construction_worker:
