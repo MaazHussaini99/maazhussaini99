@@ -38,6 +38,7 @@ I have successfully completed various projects, demonstrating my ability to tack
 
 Here are some npm packages I've contributed to or published publicly:
 
+- [**@nys-cui/cui-spa-app-class**](https://www.npmjs.com/package/@nys-cui/cui-spa-app-class)
 - [**@nys-cui/cui-field**](https://www.npmjs.com/package/@nys-cui/cui-field)
 
 _Visit my [npm profile](https://www.npmjs.com/~maazhussaini) for more details._
